@@ -1,0 +1,44 @@
+[
+	{
+		"img": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2019/04/3d_mobile_x-ray_machine/19338631-1-eng-GB/3D_mobile_X-ray_machine_pillars.png",
+		"Title": "X-ray Test",
+		"Price": 1200,
+		"Desc": "An X-ray (radiograph) is a special image that uses radiation to create 2D pictures of bones and other internal tissues such as your lungs and other organs. We use state of the art digital X-ray equipment, resulting in excellent image quality.This is used to find out fracture type problem and anything that is connected to bone",
+		"id": 1
+	},
+	{
+		"img": "https://cdn-cnhcm.nitrocdn.com/VRPUiPwhndpqzfthOiEmTXZDGLyYMeBC/assets/static/optimized/rev-c6102b6/wp-content/uploads/2019/08/shutterstock_1446622697-1-800x534.jpg",
+		"Title": "Ultrasound",
+		"Price": 3400,
+		"Desc": "An Ultrasound scan uses high frequency sound waves to create pictures of soft tissues (eg. muscles, glands) and organs inside the body (eg. kidneys). The non-audible sound passing into your body is safe because it doesn’t use radiation. That is why Ultrasound is often used for monitoring the growing child in pregnancy",
+		"id": 2
+	},
+	{
+		"img": "https://factdr.com/wp-content/uploads/2019/10/CT-scan-machine.png",
+		"Title": "CT Scan",
+		"Price": 2300,
+		"Desc": "CT stands for Computerised Tomography and can also be called a ‘CAT’ scan. CT scans are produced using specialised x-ray equipment which rotates around the body to obtain images from different angles. Modern CT scanners can take multiple slices of the body in one single rotation and as such are now referred to as Multi-Slice CT scanners. The sophisticated computer within the CT scanner is then able to process this information to create a 3-Dimensional image of the body part or area that has been scanned to show a detailed cross-section, including bones, organs and blood vessels. The CT Scan does not replace plain X-rays, but gives additional information with greater detail",
+		"id": 3
+	},
+	{
+		"img": "https://media.dentalcompare.com/m/25/product/3127586-400x300.jpg",
+		"Title": "Dental Imaging",
+		"Price": 1350,
+		"Desc": "A dental x-ray is an xray of the teeth which dentist use to look for impacted teeth, monitor growth and development of the jaws in relation to the teeth, and to identify potential problems between teeth and jaws and the temporomandibular joint.",
+		"id": 4
+	},
+	{
+		"img": "https://cdn.ultrasoundsupply.com/wp-content/uploads/2019/06/27005129/samsung_r7_monitor1-600x600.jpg",
+		"Title": "Women’s Imaging",
+		"Price": 1840,
+		"Desc": "Our Imaging Department has been designed for women’s comfort and privacy. We utilise the latest in breast imaging technology which integrates the use of breast ultrasound and interventional procedures, including biopsies and FNAs, to provide a complete service in one location.",
+		"id": 5
+	},
+	{
+		"img": "https://info.blockimaging.com/hubfs/GE-Essential-3D-Tomo-with-Senoclaire.jpg",
+		"Title": "Mammography",
+		"Price": 2700,
+		"Desc": "Mammography is a low-dose X-ray used to assess breast disease in symptomatic women and as a screening tool in the wider population. Mammography can show small cancers well before a lump is palpable, and early detection increases the overall effectiveness of cancer treatment.",
+		"id": 6
+	}
+]
